@@ -24,11 +24,12 @@ A data analysis project focused on understanding the global impact of the COVID-
 ### 3. Global Vaccination Over Time
 <img src="assets/Screenshot 2025-07-25 225319.png" width="600"/>
 
-### 4. Pie Chart of COVID-19 Cases by Region  
-![Pie Chart](./images/Screenshot%202025-07-25%20225429.png)
+### 4. Top 10 Country by Confirmed Covid 19 Cases 
+<img src="assets/Screenshot 2025-07-25 225341.png" width="600"/>
 
-### 5. Heatmap of Country Severity  
-![Heatmap](./images/Screenshot%202025-07-25%20225458.png)
+
+### 5. Top 10 Country by Confirmed Covid 19 Death Cases 
+<img src="assets/Screenshot 2025-07-25 225354.png" width="600"/>
 
 ### 6. Daily Growth of Cases  
 ![Daily Growth](./images/Screenshot%202025-07-25%20225522.png)
