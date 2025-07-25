@@ -16,7 +16,7 @@ A data analysis project focused on understanding the global impact of the COVID-
 ## 📷 Sample Visualizations
 
 ### 1. Country-wise Case Distribution  
-![Country Chart]([./images/Screenshot%202025-07-25%20225341.png](https://github.com/Shreshthbajpai/Covid-19-Analysis-Project/blob/main/assets/Screenshot%202025-07-25%20225341.png?raw=true))
+![Country Chart]([assets/Screenshot 2025-07-25 225341.png)
 
 ### 2. Time-Series Line Plot of Global Cases  
 ![Time-Series](./images/Screenshot%202025-07-25%20225354.png)
