@@ -16,13 +16,13 @@ A data analysis project focused on understanding the global impact of the COVID-
 ## 📷 Sample Visualizations
 
 ### 1. Global Daily New Cases 
-([<img src="assets/Screenshot 2025-07-25 225246.png" width="600"/>)
+<img src="assets/Screenshot 2025-07-25 225246.png" width="600"/>
 
-### 2. Time-Series Line Plot of Global Cases  
-![Time-Series](./images/Screenshot%202025-07-25%20225354.png)
+### 2. Global Daily New Death Cases 
+<img src="assets/Screenshot 2025-07-25 225304.png" width="600"/>
 
-### 3. Confirmed vs Deaths vs Recoveries  
-![Stacked Comparison](./images/Screenshot%202025-07-25%20225407.png)
+### 3. Global Vaccination Over Time
+<img src="assets/Screenshot 2025-07-25 225319.png" width="600"/>
 
 ### 4. Pie Chart of COVID-19 Cases by Region  
 ![Pie Chart](./images/Screenshot%202025-07-25%20225429.png)
