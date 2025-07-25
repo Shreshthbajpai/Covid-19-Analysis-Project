@@ -15,7 +15,7 @@ A data analysis project focused on understanding the global impact of the COVID-
 
 ## 📷 Sample Visualizations
 
-### 1. Country-wise Case Distribution  
+### 1. Global Daily New Cases 
 ![Country Chart]([<img src="assets/Screenshot 2025-07-25 225341.png" width="300"/>)
 
 ### 2. Time-Series Line Plot of Global Cases  
