@@ -31,11 +31,23 @@ A data analysis project focused on understanding the global impact of the COVID-
 ### 5. Top 10 Country by Confirmed Covid 19 Death Cases 
 <img src="assets/Screenshot 2025-07-25 225354.png" width="600"/>
 
-### 6. Daily Growth of Cases  
-![Daily Growth](./images/Screenshot%202025-07-25%20225522.png)
+### 6. Top 10 countries by fully vaccinated population (%)
+<img src="assets/Screenshot 2025-07-25 225407.png" width="600"/>
 
-### 7. Animated Trends using Plotly  
-![Animated Plot](./images/Screenshot%202025-07-25%20225541.png)
+### 7. Daily new cases in selected countries
+<img src="assets/Screenshot 2025-07-25 225429.png" width="600"/>
+
+### 8. Daily new deaths in selected countries
+<img src="assets/Screenshot 2025-07-25 225458.png" width="600"/>
+
+### 9. World map of total confirmed covid 19 cases
+<img src="assets/Screenshot 2025-07-25 225522.png" width="600"/>
+
+### 10. World map of total confirmed covid 19 dearth cases
+<img src="assets/Screenshot 2025-07-25 225541.png" width="600"/>
+
+### 11. World map of people vaccinated against covid 19(%) 
+<img src="assets/Screenshot 2025-07-25 225604.png" width="600"/>
 
 ---
 
